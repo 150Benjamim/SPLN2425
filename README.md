@@ -1,8 +1,8 @@
 # SPLN2425
 
-Scripting no Processamento de Linguagem Natural
+**Scripting no Processamento de Linguagem Natural**
 
-2024/2025
+Ano Letivo de 2024/2025
 
 ## Aluno
 
